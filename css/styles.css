@@ -1,4 +1,6 @@
 body {
   font-family: helvetica, sans-serif;
-  background-image: "/images/texture.jpg";
+  background-image: url("/images/texture.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
 }
