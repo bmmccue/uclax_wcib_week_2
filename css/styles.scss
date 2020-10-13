@@ -1,15 +1,33 @@
 body {
-	font-family: arial, sans-serif;
+	font-family: poppins, sans-serif;
 	color: white;
 	text-align: center;
   background-image: url("/images/yellowbg.jpg");
 	background-repeat: no-repeat;
 	background-size: 100%;
 
+	h1 {
+		text-shadow: 2px 2px 6px #000000;
+	}
+
+	h2 {
+		text-shadow: 2px 2px 6px #000000;
+	}
+
+	h3 {
+		text-shadow: 2px 2px 6px #000000;
+	}
+
+	}
+
 	header {
 		padding: 30px;
 	}
 
+	iframe {
+		border-style: solid;
+		border-radius: 5px;
+		border-width: 4px;
 	}
 
 	article {
@@ -25,4 +43,11 @@ body {
 
 	ol {
 		list-style: none;
+	}
+
+	footer {
+		a:link{
+			color: pink;
+			text-decoration: none;
+		}
 	}
