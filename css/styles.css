@@ -2,5 +2,34 @@ body {
   font-family: helvetica, sans-serif;
   background-image: url("/images/texture.jpg");
   background-size: 100%;
-  background-repeat: no-repeat;
+}
+
+header {
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+ol {
+
+  text-align: center;
+  list-style: none;
+}
+
+footer {
+  text-align: center;
 }
