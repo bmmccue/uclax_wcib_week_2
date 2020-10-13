@@ -1,36 +1,58 @@
-body {
-  font-family: helvetica, sans-serif;
-  background-image: url("/images/yellowbg.jpg");
-  background-size: 100%;
-  background-repeat: no-repeat;
-}
+<!doctype html>
+<html class="" lang="en">
 
-header {
-  text-align: center;
-}
+  <head>
+    <meta charset="utf-8">
 
-h1 {
-  text-align: center;
-}
+    <title>Fleetwood Mac</title>
 
-h2 {
-  text-align: center;
-}
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-h3 {
-  text-align: center;
-}
+    <link rel="stylesheet" href="css/styles.css">
+  </head>
 
-p {
-  text-align: center;
-}
+  <body>
 
-ol {
+		<header> <img src="images/logo.png"></header>
 
-  text-align: center;
-  list-style: none;
-}
+    <h1 class="h1"> Unofficial Band Page </h1>
 
-footer {
-  text-align: center;
-}
+		<section> <iframe width="560" height="315" src="https://www.youtube.com/embed/Y3ywicffOj4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+    </section>
+
+		<article> <img src="images/album art.jpg">
+
+    </article>
+
+    <h2> Fleetwood Mac - Rumours
+    </h2>
+
+    <p> Fleetwood Mac's "Rumours" was released in 1977. It was an album marked by contention between band members, however overall, it was a great success!
+
+    </p>
+
+    <h3>Album Song List</h3>
+
+    <ol>
+      <li>Second Hand News</li>
+      <li>Dreams</li>
+      <li>Never Going Back Again</li>
+      <li>Don't Stop</li>
+      <li>Go Your Own Way</li>
+      <li>Songbird</li>
+      <li>The Chain</li>
+      <li>You Make Loving Fun</li>
+      <li>I Don't Want To Know</li>
+      <li>Oh Daddy</li>
+      <li>Gold Dust Woman</li>
+
+    </ol>
+
+		<footer> Email <a href="mailto:brittlearnshtml@gmail.com">Brittany McCue</a> to learn more!
+    </footer>
+
+	</body>
+
+</html>
