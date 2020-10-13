@@ -1,7 +1,28 @@
 body {
-	font-family: sans-serif;
+	font-family: arial, sans-serif;
+	color: white;
+	text-align: center;
+  background-image: url("/images/yellowbg.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+
+	header {
+		padding: 30px;
+	}
+
+	}
+
+	article {
+		padding: 30px;
 
 	img {
-		width: 100%;
+			border-style: solid;
+			border-radius: 5px;
+			border-width: 4px;
+		}
+
 	}
-}
+
+	ol {
+		list-style: none;
+	}
